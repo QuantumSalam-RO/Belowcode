@@ -1,2 +1,10 @@
 # Blackware3D
-The Official Repo For Blackware3D, a 3D game engine Coded by Chatgpt and uses DX9. Not open source
+Readme.md
+
+# Features:
+DirectX9
+
+# Todo:
+Custom Engine Built over DX9
+Massive Optimizations
+Make a level editor and much flexibility like RobloxStudio (not open to the public but might release SDK once finished)
