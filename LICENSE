@@ -1,73 +1,95 @@
-# Official Private Belowcode License 1.0
+Official Private Belowcode License 1.1
+Effective Date: April 10, 2025
+Copyrighted & Trademarked
+Applies To: All official Belowcode™ software, games, tools, documents, and trademarks.
+Author: QuantumSalam (Quantum) (Founder & Owner of Belowcode)
 
-**Effective Date:** April 10, 2025  
-**Expiration Date:** None (Indefinite)  
-**Issued By:** Belowcode (© QuantumSalam)  
-**Legal Owner:** QuantumSalam / Rwusmm ("Quantum")
-**Scope:** Applies to all repositories, codebases, assets, and concepts under the Belowcode ecosystem unless otherwise stated.
----
+0. Preamble
+Belowcode is a legally recognized, independent software company specializing in computer-related technologies.
+We do not manufacture hardware or physical components — our focus lies entirely in the development of software, operating systems, digital tools, and interactive entertainment (including games).
 
-## 1. License Overview
+We are not a subsidiary, distributor, or affiliate of any existing corporation or license body. All projects under Belowcode are developed internally or with trusted contributors under direct oversight from its owner, Quantum.
 
-This license governs the proprietary use of all intellectual property published under the **Belowcode** brand. This includes all associated source code, documentation, naming conventions, software systems, and technologies. This license is **private**, **non-open**, and **non-transferable**. No rights are granted to any individual, entity, or organization unless **explicit written permission** is provided by **QuantumSalam** or an authorized representative of Belowcode.
+This license supersedes all previous versions and governs usage, redistribution, modification, and legal protections related to all Belowcode products and branding.
 
----
+1. Trademark & Copyright
+The following names, technologies, and identifiers are owned by Belowcode™, either under copyright or common-law trademark protections. They are explicitly detailed in the NOTICE file located here:
+📎 https://github.com/QuantumSalam-RO/Belowcode
 
-## 2. Trademark Declarations
+These protected assets include but are not limited to:
 
-The following terms are declared and enforced as **common law trademarks**, originating from first public use and commerce by QuantumSalam. These trademarks are proprietary and protected under applicable intellectual property laws:
+Belowcode – (Copyrighted software company)
 
-**Trademarked Technologies:**
+TTM – Tiny Trained Model – (Trademarked lightweight AI model)
 
-- `TTM™` – Tiny Trained Model  
-- `LTLM™` – Low-Tech Language Model  
-- `BRAINLET™` – Runtime optimization system for DX games  
+LTLM – Low-Tech Language Model – (Trademarked offline model framework)
 
-All trademark declarations are formally listed in the [`NOTICE`](https://github.com/QuantumSalam-RO/Belowcode/blob/main/NOTICE) file of this repository. Unauthorized usage, duplication, or rebranding of these technologies or their terminology is prohibited.
+BRAINLET – DX Optimization System – (Trademarked runtime enhancer)
 
----
+Nice Game Series – including Nice 1, Nice 2, Nice: Future, etc. (Trademarked titles)
 
-## 3. Copyright
+No external person, group, or company may legally use, imitate, or profit from these identities or technologies without explicit written authorization from Quantum or Belowcode™.
 
-The entirety of the **Belowcode** brand—including its name, logo (if any), structure, associated documentation, and all software products authored under it—is the **exclusive intellectual property of QuantumSalam** and is automatically protected under copyright law.
+2. Ethical Usage & Publishing
+Belowcode commits to:
+Never include malware, hidden backdoors, or shady trackers in any official product.
 
-All content within this repository, including:
+Never use AI to simulate, recreate, or impersonate any real person without their clear, documented consent.
 
-- Source code  
-- Architectures and frameworks  
-- File structures and naming systems  
-- README and NOTICE documentation  
-- Unique concepts defined by Belowcode  
+Never include unauthorized appearances of celebrities, influencers, or public figures in games or promotional material.
 
-are covered under this copyright. Redistribution, modification, sublicensing, or derivative works are **not permitted** without direct authorization.
+Use AI technologies only to aid development, automation, or functionality — never for unethical or deceptive behavior.
 
----
+AI Disclosure:
+Belowcode may use artificial intelligence in its development processes. This may include procedural generation, asset creation, testing, and scripting.
+All AI use is internal and does not affect user privacy or public representation.
 
-## 4. Permissions and Restrictions
+3. Piracy, Clones & Infringement
+Belowcode reserves the right to protect its IP.
 
-This license explicitly **does not grant**:
+While official products will always be clean and safe, unofficial versions — including pirated, stolen, cloned, or modified builds — may:
 
-- Permission to reuse or republish any part of this repository  
-- Rights to use, clone, or fork the contents without consent  
-- The right to use any terms declared as trademarks  
-- Authorization to rebrand or resell any system under a different identity
+Contain countermeasures,
 
-Explicit, written approval from QuantumSalam is required for **any and all external usage**.
+Be disabled on purpose,
 
----
+Or fail to function altogether.
 
-## 5. About Belowcode
+This is intentional. We support real users, not pirates.
 
-**Belowcode** is a **small, private game development studio** that also engages in the design and production of **computer software**, including but not limited to **operating systems, low-level utilities, and experimental software frameworks**. It is established, developed, and maintained by **QuantumSalam**, functioning independently with exclusive rights over its own works.
+4. Distribution & Platforms
+Belowcode will and for now distribute products exclusively through:
 
-Belowcode is **not classified as "indie"**, but operates as a **self-owned and privately developed studio** with full legal authority over all works produced under its name.
+Steam
 
----
+Epic Games Store
 
-## 6. Legal Enforcement
+Anything found outside these platforms should be considered unofficial, altered, or not authentic unless verified directly through our GitHub or any belowcode website.
 
-Violating this license or any claim stated within the [`NOTICE`](https://github.com/QuantumSalam-RO/Belowcode/blob/main/NOTICE) file may constitute an infringement of copyright, trademark, or related laws. Belowcode reserves the full right to take legal action in the event of unauthorized use or misrepresentation.
+5. Warranty Disclaimer
+All Belowcode software is distributed “as-is”, with no warranty or guarantee of fitness, performance, or reliability.
+We don’t owe you anything if it:
 
----
+Crashes,
 
-*This license is effective indefinitely from April 10, 2025. It may not be reused, modified, or distributed under any condition without explicit authorization from the original rights holder.*
+Fails to launch,
+
+Or eats your homework.
+
+Use it wisely and at your own discretion.
+
+6. Trust, Transparency & Respect
+We don’t cut corners. We don’t sell out. And we sure as hell don’t scam people.
+
+Belowcode is:
+
+Transparent about what it does and how it does it.
+
+Focused solely on software and digital systems.
+
+Firmly against misleading practices like fake endorsements, crypto/NFT integration, or user data harvesting.
+
+📎 NOTICE Reference
+All rights, identifiers, and protected works referenced here are fully detailed in the NOTICE file:
+🔗 https://github.com/QuantumSalam-RO/Belowcode
+
