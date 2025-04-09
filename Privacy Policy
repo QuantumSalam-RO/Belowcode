@@ -1,0 +1,81 @@
+Belowcode Privacy Policy
+Effective Date: April 10, 2025
+Last Updated: April 10, 2025
+
+This Privacy Policy explains how Belowcode, a small software and game development studio operated by Quantum ("we", "us", or "our"), collects, uses, stores, and protects information when you access, use, or interact with our software products, websites, services, or repositories, including but not limited to those available on https://github.com/QuantumSalam-RO/Belowcode (the “Software” or "Services").
+
+By accessing or using any Belowcode Software or Services, you agree to the practices described in this Policy.
+
+1. Information We Do Not Collect
+We do not intentionally collect any personal information, such as names, email addresses, or locations. Our software is designed with privacy in mind and does not include telemetry, tracking, or background data collection mechanisms.
+
+Belowcode Software is intended to be offline-first, low-dependency, and data-minimal.
+
+2. Information We May Collect (Automatically)
+In certain cases, and only when explicitly configured by you (e.g., logging or debugging modes), the Software may generate or store local logs, such as:
+
+Application crash reports (stored locally)
+
+Configuration settings
+
+Usage metadata (e.g., feature usage count)
+
+This data is not transmitted to us or any third party unless you explicitly submit it (e.g., in a GitHub issue or email). We do not operate remote servers that ingest data from the Software.
+
+3. Data You Voluntarily Provide
+You may choose to submit information when:
+
+Reporting bugs or requesting features (e.g., through GitHub Issues or Discussions)
+
+Contacting Belowcode via email or social media
+
+Collaborating on projects
+
+Such communication is voluntary and you retain control over what is disclosed. Any data shared in this context is treated with confidentiality and used only to improve our Software and Services.
+
+4. Cookies and Tracking
+Belowcode’s websites or GitHub repositories do not use cookies, web beacons, analytics trackers, or any automated profiling tools under our direct control. However, GitHub.com or third-party services (e.g., browsers, analytics providers) may use cookies and collect analytics data according to their own privacy policies.
+
+We have no access to or control over such third-party mechanisms.
+
+5. Use of Information
+If we do receive any technical or voluntarily submitted data, we will use it exclusively to:
+
+Debug or improve the Software
+
+Respond to user inquiries
+
+Maintain project quality, transparency, and legal compliance
+
+We do not sell, trade, or share any user data for advertising or commercial purposes.
+
+6. Data Storage and Security
+Belowcode does not maintain cloud-based user databases. Any data voluntarily submitted to us (e.g., via email or GitHub) is stored in secured environments and only accessed for the purposes stated in this policy.
+
+All software distributed by Belowcode is stored and version-controlled using GitHub, which maintains its own security protocols.
+
+7. Data Retention
+We retain data only as long as necessary to fulfill the purposes outlined in this policy or to comply with legal obligations. If you request deletion of data you've submitted to us, we will make reasonable efforts to remove it unless we are legally required to retain it.
+
+8. Your Rights
+You have the right to:
+
+Request deletion of voluntarily submitted data
+
+Inquire about what (if any) data we hold about you
+
+Request corrections to inaccurate data
+
+To exercise any of these rights, please contact us via GitHub or the method through which you originally reached us.
+
+9. Children's Privacy
+Belowcode Software is not directed toward individuals under the age of 13. We do not knowingly collect personal information from children. If we become aware that data has been provided by someone under 13 without parental consent, we will delete it immediately.
+
+10. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Material changes will be posted to the repository or website where the Software is hosted. Continued use of the Software after such changes constitutes acceptance of the revised policy.
+
+11. Contact Information
+For questions, concerns, or legal inquiries related to this Privacy Policy, please contact:
+
+Quantum / Belowcode
+All rights reserved.
