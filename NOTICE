@@ -1,17 +1,40 @@
-Intellectual Property Notice
-The following names and associated technologies are original creations by the entity known as Quantum, and are subject to common law trademark protection through first use in commerce and publication. These identifiers are not known to have been previously used or registered by any other entity and are asserted as proprietary assets. Unauthorized use, reproduction, or misrepresentation may constitute a violation of applicable intellectual property laws.
+## Intellectual Property Notice
 
-TTM™ – Tiny Trained Model
-A minimal, lightweight alternative to large language models (LLMs), designed for execution on low-resource systems. The name TTM™, its definition, and its associated concept were created and first used by Quantum. Ownership of this mark and its derivatives resides with Belowcode™.
+The following names and associated technologies are original creations by the entity known as **Quantum**, and are protected under **common law trademark and copyright** through first use in commerce and publication. These identifiers have not been registered by any other known entity as of the effective date, and are asserted as proprietary intellectual property of **Belowcode**, a privately held software and game development studio. Unauthorized use, reproduction, modification, or misrepresentation of any item listed herein may constitute a violation of applicable intellectual property laws.
 
-Belowcode©
-A proprietary software and game development studio established and operated by Quantum. Belowcode™ is the originator and intellectual property holder of various software technologies, including TTM™ and others listed herein. Technical limitations may prevent display of the ™ symbol in repository titles; however, all rights are asserted in accordance with applicable law.
+---
 
-LTLM™ – Low-Tech Language Model
-A software model designed to emulate core functions of language models in a fully offline, low-specification environment. LTLM™ operates independently of GPU acceleration or cloud infrastructure.
+### TTM™ – Tiny Trained Model  
+A minimal, lightweight alternative to large language models (LLMs), designed for execution on low-resource systems. Created and first used by Quantum, TTM™ is a proprietary technology owned by Belowcode.
 
-BRAINLET™
-A runtime optimization system designed to enhance performance and visual output in DirectX-based applications. Developed under Belowcode™, BRAINLET™ is intended for use in environments with constrained hardware capabilities.
+---
 
-NICE™
-A Game Made by Belowcode Studios, The game name 'Nice" is trademarked under Belowcode and is a future game where right now its in development, Nice should not be used in any game other than Belowcode for legal reasons, i can legally copyright or trademark this if i want but i decided to just trademark it.
+### LTLM™ – Low-Tech Language Model  
+An offline, barebones language model designed to operate independently of GPU acceleration or cloud infrastructure. Developed for maximum compatibility with legacy hardware.
+
+---
+
+### BRAINLET™  
+A runtime optimization layer that enhances performance and rendering quality in DirectX-based applications. Developed and owned by Belowcode, intended for constrained or legacy hardware environments.
+
+---
+
+### Nice 1™  
+A narrative-driven, crime-themed open world game developed by Belowcode, inspired by classic action-sandbox titles but offering its own distinctive story, gameplay, and visual style. The title **Nice 1™** is protected as a trademark of Belowcode.
+
+---
+
+### Nice Game Series™  
+A proprietary game series by Belowcode encompassing current and future game titles prefixed with "Nice", including but not limited to *Nice 1™, Nice 2™, Nice: Future™, Nice Origins™, and similar derivations*. This series constitutes a creative work and brand owned exclusively by Belowcode.
+
+---
+
+### Belowcode (Copyrighted)  
+Belowcode is a privately held software and game development studio founded by Quantum. In addition to game production, Belowcode also develops tools and operating system-level software. All technologies and concepts listed in this notice are either copyrighted by or trademarked under Belowcode as of the effective date.
+
+---
+
+**Effective Date**: April 10, 2025  
+**Maintained by**: Quantum (Owner of Belowcode)  
+**Repository**: [https://github.com/QuantumSalam-RO/Belowcode](https://github.com/QuantumSalam-RO/Belowcode)
+
