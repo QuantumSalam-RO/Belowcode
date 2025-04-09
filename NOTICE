@@ -10,9 +10,6 @@ A proprietary software and game development studio established and operated by Q
 LTLM™ – Low-Tech Language Model
 A software model designed to emulate core functions of language models in a fully offline, low-specification environment. LTLM™ operates independently of GPU acceleration or cloud infrastructure.
 
-MINT™ – Minimal Intelligence Neural Toolkit
-A framework for constructing purpose-driven, resource-conscious AI systems. MINT™ supports the creation of basic neural processes without unnecessary complexity or external dependencies.
-
 BRAINLET™
 A runtime optimization system designed to enhance performance and visual output in DirectX-based applications. Developed under Belowcode™, BRAINLET™ is intended for use in environments with constrained hardware capabilities.
 
