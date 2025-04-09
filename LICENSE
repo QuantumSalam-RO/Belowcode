@@ -1,21 +1,73 @@
-MIT License
+# Official Private Belowcode License 1.0
 
-Copyright (c) 2025 QuantumSalam-RO
+**Effective Date:** April 10, 2025  
+**Expiration Date:** None (Indefinite)  
+**Issued By:** Belowcode (© QuantumSalam)  
+**Legal Owner:** QuantumSalam ("Quantum")
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 1. License Overview
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This license governs the proprietary use of all intellectual property published under the **Belowcode** brand. This includes all associated source code, documentation, naming conventions, software systems, and technologies. This license is **private**, **non-open**, and **non-transferable**. No rights are granted to any individual, entity, or organization unless **explicit written permission** is provided by **QuantumSalam** or an authorized representative of Belowcode.
+
+---
+
+## 2. Trademark Declarations
+
+The following terms are declared and enforced as **common law trademarks**, originating from first public use and commerce by QuantumSalam. These trademarks are proprietary and protected under applicable intellectual property laws:
+
+**Trademarked Technologies:**
+
+- `TTM™` – Tiny Trained Model  
+- `LTLM™` – Low-Tech Language Model  
+- `BRAINLET™` – Runtime optimization system for DX games  
+
+All trademark declarations are formally listed in the [`NOTICE`](https://github.com/QuantumSalam-RO/Belowcode/blob/main/NOTICE) file of this repository. Unauthorized usage, duplication, or rebranding of these technologies or their terminology is prohibited.
+
+---
+
+## 3. Copyright
+
+The entirety of the **Belowcode** brand—including its name, logo (if any), structure, associated documentation, and all software products authored under it—is the **exclusive intellectual property of QuantumSalam** and is automatically protected under copyright law.
+
+All content within this repository, including:
+
+- Source code  
+- Architectures and frameworks  
+- File structures and naming systems  
+- README and NOTICE documentation  
+- Unique concepts defined by Belowcode  
+
+are covered under this copyright. Redistribution, modification, sublicensing, or derivative works are **not permitted** without direct authorization.
+
+---
+
+## 4. Permissions and Restrictions
+
+This license explicitly **does not grant**:
+
+- Permission to reuse or republish any part of this repository  
+- Rights to use, clone, or fork the contents without consent  
+- The right to use any terms declared as trademarks  
+- Authorization to rebrand or resell any system under a different identity
+
+Explicit, written approval from QuantumSalam is required for **any and all external usage**.
+
+---
+
+## 5. About Belowcode
+
+**Belowcode** is a **small, private game development studio** that also engages in the design and production of **computer software**, including but not limited to **operating systems, low-level utilities, and experimental software frameworks**. It is established, developed, and maintained by **QuantumSalam**, functioning independently with exclusive rights over its own works.
+
+Belowcode is **not classified as "indie"**, but operates as a **self-owned and privately developed studio** with full legal authority over all works produced under its name.
+
+---
+
+## 6. Legal Enforcement
+
+Violating this license or any claim stated within the [`NOTICE`](https://github.com/QuantumSalam-RO/Belowcode/blob/main/NOTICE) file may constitute an infringement of copyright, trademark, or related laws. Belowcode reserves the full right to take legal action in the event of unauthorized use or misrepresentation.
+
+---
+
+*This license is effective indefinitely from April 10, 2025. It may not be reused, modified, or distributed under any condition without explicit authorization from the original rights holder.*
